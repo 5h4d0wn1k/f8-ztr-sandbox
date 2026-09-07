@@ -1,0 +1,4 @@
+{
+  "pillars": ["identity", "device", "network", "application"],
+  "pass_threshold": 75
+}
